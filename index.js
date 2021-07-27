@@ -1,4 +1,4 @@
-export default function flattenlev(arr, prev) {
+module.exports = function flattenlev(arr, prev) {
   let ret = prev || [];
   return arr.reduce((acc, val) => {
     if (Array.isArray(val)) {
