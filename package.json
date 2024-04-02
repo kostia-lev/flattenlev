@@ -1,6 +1,6 @@
 {
   "name": "flattenlev",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a function to flatten arrays e.g. flattenlev([1,[3]]) returns [1, 3] ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kostia-lev/flattenlev.git"
+    "url": "https://github.com/kostia-lev/flattenlev"
   },
   "keywords": [
     "flatten",
